@@ -1,4 +1,12 @@
 {
+    "name": "pyama/unleash-client-php5",
+    "description": "",
+    "authors": [
+        {
+            "name": "pyama",
+            "email": "pyama@pepabo.com"
+        }
+    ],
     "require": {
         "php": "^5",
         "guzzlehttp/guzzle": "^6.5",
